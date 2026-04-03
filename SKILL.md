@@ -1,6 +1,6 @@
 ---
 name: travel-personality-test
-description: Use when the user wants to take a travel personality quiz, discover their travel style, or find travel recommendations based on their personality. Triggered by phrases like "旅行人格测试", "测测我是什么旅行者", "旅行风格", "适合去哪玩".
+description: 当用户想做旅行人格测试、探索自己的旅行风格、或获取基于人格的旅行推荐时使用。触发词包括"旅行人格测试"、"测测我是什么旅行者"、"旅行风格"、"适合去哪玩"、"推荐旅行目的地"、"最近想出去玩"。
 ---
 
 # 旅行人格测试
